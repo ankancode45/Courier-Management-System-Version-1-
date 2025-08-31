@@ -18,6 +18,5 @@ Calculate delivery charges based on weight and transport mode.
 Handle exceptions (invalid transport, weight too high, etc.).
 5.
 Display all courier details.
-OUTPUT 
-<img width="1920" height="1080" alt="Screenshot (341)" src="https://github.com/user-attachments/assets/58f2907e-5bd4-458a-868c-1c95a652091e" />
+OUTPUT <img width="1920" height="1080" alt="Screenshot (341)" src="https://github.com/user-attachments/assets/58f2907e-5bd4-458a-868c-1c95a652091e" />
 
